@@ -7,3 +7,5 @@ The Naive Bayes classifier is a fundamental algorithm in machine learning, renow
 various classification tasks. It is based on Bayes' Theorem, which provides a mathematical framework for calculating the probability 
 of an event based on prior knowledge of conditions 
 related to the event. The term "naive" refers to the strong independence assumptions it makes between features.
+# Files:
+-`Assignment_fake_or_real_data_naive.ipynb` Naive bayes calcification with python
